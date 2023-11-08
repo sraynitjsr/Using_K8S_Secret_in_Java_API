@@ -1,2 +1,3 @@
-api:
-  secretName: my-secret
+secrets:
+  username: "my-secret-usr"
+  password: "my-secret-pass"
